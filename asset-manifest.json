@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BestBooks/static/css/main.b2a50292.css",
+    "main.js": "/BestBooks/static/js/main.bea9784a.js",
+    "static/media/book-3.jpg": "/BestBooks/static/media/book-3.7374c3b753c5bb283283.jpg",
+    "static/media/book-2.jpg": "/BestBooks/static/media/book-2.14d54e622a78d893efe6.jpg",
+    "static/media/book-1.jpg": "/BestBooks/static/media/book-1.b1abd1c5d8503e577d85.jpg",
+    "index.html": "/BestBooks/index.html",
+    "main.b2a50292.css.map": "/BestBooks/static/css/main.b2a50292.css.map",
+    "main.bea9784a.js.map": "/BestBooks/static/js/main.bea9784a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a50292.css",
+    "static/js/main.bea9784a.js"
+  ]
+}
